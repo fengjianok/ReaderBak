@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
-  s.name         = "RTReader"
+  s.name         = "ReaderBak"
   s.version      = "0.0.1"
   s.summary      = "library used by reader."
-  s.homepage     = "https://github.com/fengjianok/RTReader"
+  s.homepage     = "https://github.com/fengjianok/ReaderBak"
   s.author       = { "fengjianok" => "fengjian@goodow.com" }
-  s.source       = { :git => "https://github.com/fengjianok/RTReader.git", :tag => "v#{s.version}" }
+  s.source       = { :git => "https://github.com/fengjianok/ReaderBak.git", :tag => "v#{s.version}" }
   s.platform     = :ios, '5.0'
 
   s.source_files = 'Classes/**/*.{h,m}'
