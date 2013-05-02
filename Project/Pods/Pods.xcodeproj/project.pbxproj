@@ -10,7 +10,27 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
-		<key>1188CD71C3F749D2A02F831E</key>
+		<key>34E079E9A9354614A1F2126E</key>
+		<dict>
+			<key>buildSettings</key>
+			<dict/>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>4DF4E371F91B4CE09C52D525</key>
+		<dict>
+			<key>children</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Targets Support Files</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4ED58D8165464CEB8A7D9592</key>
 		<dict>
 			<key>children</key>
 			<array/>
@@ -21,7 +41,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>3D563C7B6FDF4A9AA9AF5AD1</key>
+		<key>531AA751277B4067A52F7543</key>
 		<dict>
 			<key>attributes</key>
 			<dict>
@@ -29,7 +49,7 @@
 				<string>0450</string>
 			</dict>
 			<key>buildConfigurationList</key>
-			<string>EE4B70A7EF2B4C56B74E4C15</string>
+			<string>EA720AC22AEE44DB907D4BD0</string>
 			<key>compatibilityVersion</key>
 			<string>Xcode 3.2</string>
 			<key>developmentRegion</key>
@@ -43,15 +63,38 @@
 				<string>en</string>
 			</array>
 			<key>mainGroup</key>
-			<string>822622AF2C1D4D2DAEEECE81</string>
+			<string>C6ACAA65659C4DAF8F47B21B</string>
 			<key>productRefGroup</key>
-			<string>1188CD71C3F749D2A02F831E</string>
+			<string>4ED58D8165464CEB8A7D9592</string>
 			<key>projectReferences</key>
 			<array/>
 			<key>targets</key>
 			<array/>
 		</dict>
-		<key>44DB545DDC2843CA8B05D964</key>
+		<key>635E09AA7DE448EDBDAEC171</key>
+		<dict>
+			<key>buildSettings</key>
+			<dict/>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>C6ACAA65659C4DAF8F47B21B</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>F83792494FB74445B4A19D1C</string>
+				<string>4ED58D8165464CEB8A7D9592</string>
+				<string>4DF4E371F91B4CE09C52D525</string>
+				<string>E4ACDE267D144967A51A8DC9</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E4ACDE267D144967A51A8DC9</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -66,39 +109,21 @@
 			<key>xcLanguageSpecificationIdentifier</key>
 			<string>xcode.lang.ruby</string>
 		</dict>
-		<key>4BB77D3A7D3D440B8B0B5D5D</key>
+		<key>EA720AC22AEE44DB907D4BD0</key>
 		<dict>
-			<key>buildSettings</key>
-			<dict/>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>67FA4A49DF9941808E33F581</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict/>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>822622AF2C1D4D2DAEEECE81</key>
-		<dict>
-			<key>children</key>
+			<key>buildConfigurations</key>
 			<array>
-				<string>A9E063D6A6D24FA79E882504</string>
-				<string>1188CD71C3F749D2A02F831E</string>
-				<string>B5B3D10220D348EA86D7AC2A</string>
-				<string>44DB545DDC2843CA8B05D964</string>
+				<string>635E09AA7DE448EDBDAEC171</string>
+				<string>34E079E9A9354614A1F2126E</string>
 			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>XCConfigurationList</string>
 		</dict>
-		<key>A9E063D6A6D24FA79E882504</key>
+		<key>F83792494FB74445B4A19D1C</key>
 		<dict>
 			<key>children</key>
 			<array/>
@@ -109,33 +134,8 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>B5B3D10220D348EA86D7AC2A</key>
-		<dict>
-			<key>children</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EE4B70A7EF2B4C56B74E4C15</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>67FA4A49DF9941808E33F581</string>
-				<string>4BB77D3A7D3D440B8B0B5D5D</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
 	</dict>
 	<key>rootObject</key>
-	<string>3D563C7B6FDF4A9AA9AF5AD1</string>
+	<string>531AA751277B4067A52F7543</string>
 </dict>
 </plist>
